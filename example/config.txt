@@ -1,0 +1,2 @@
+Prefix plugins/Margalef/example/
+Plugin Margalef inputfile table.qza outputfile alpha_diversity.qza
